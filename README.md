@@ -1,4 +1,4 @@
-# Hi, I'm Seungho Lee 👋
+# Building AI-Powered Products for Everyday Life 👋
 
 안녕하세요. 문제를 해결하는 제품을 만드는 개발자 이승호입니다.
 
