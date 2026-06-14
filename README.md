@@ -1,16 +1,27 @@
-# Building AI-Powered Products for Everyday Life 👋
+# Building AI-Powered Products for Everyday Life
 
 안녕하세요. 문제를 해결하는 제품을 만드는 개발자 이승호입니다.
 
 I build AI-powered products that reduce friction in everyday life and business operations.
 
 AI와 소프트웨어를 활용하여 일상과 업무 속 불편함을 줄이는 서비스를 만들고 있습니다.
+---
+
+## Mission
+
+I build products that reduce friction in everyday life.
+
+Users shouldn't need to remember, search, or repeatedly enter information.
+
+Software should understand context first and help people make decisions faster.
 
 ---
 
-# 🚀 Currently Building | 현재 개발 중
+# Currently Building | 현재 개발 중
 
 ## NEX24 Mart
+
+Status: Concept & MVP Planning
 
 AI-powered local logistics network connecting neighborhood markets, shoppers, and consumers.
 
@@ -25,6 +36,8 @@ Transform neighborhood markets into local logistics hubs.
 ---
 
 ## BizFlow
+
+Status: Research & Prototype
 
 Workflow automation and AI-assisted business operations.
 
