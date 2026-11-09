@@ -9,7 +9,7 @@ Founder of **GODREAM SOFT** · Software, AI & Automation
 현장의 반복 업무와 불편함을 소프트웨어로 해결합니다.<br>
 문제를 이해하고, 실제 작업 흐름에 맞는 제품을 설계하고 개발합니다.
 
-[회사 홈페이지](https://godream.co.kr) · [이메일 문의](mailto:sean@godream.co.kr) · [Mathisto 읽기](https://ssnkoster.github.io/mathisto/)
+회사 홈페이지 **Coming soon** · [이메일 문의](mailto:sean@aritlab.com) · [Mathisto 읽기](https://ssnkoster.github.io/mathisto/)
 
 ## 하는 일
 
@@ -89,4 +89,4 @@ Founder of **GODREAM SOFT** · Software, AI & Automation
 
 **고드름소프트 · GODREAM SOFT**<br>
 생각을 기술로, 꿈을 현실로.<br>
-[godream.co.kr](https://godream.co.kr) · [sean@godream.co.kr](mailto:sean@godream.co.kr)
+회사 홈페이지 **Coming soon** · [sean@aritlab.com](mailto:sean@aritlab.com)
