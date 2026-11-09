@@ -1,308 +1,91 @@
-# Hi, I'm Seungho Lee 👋
+# 이승호 · Sean Lee
 
-## AI, 자동화, 그리고 일상이 만나는 지점에서 제품을 만듭니다.
-### Building products at the intersection of AI, automation, and everyday life.
+**고드름소프트 대표 · SW·AI 솔루션 개발**<br>
+Founder of **GODREAM SOFT** · Software, AI & Automation
 
-안녕하세요.
+> 생각을 기술로, 꿈을 현실로.<br>
+> Turning ideas into technology, dreams into reality.
 
-문제를 발견하고 해결하는 과정을 즐기는 개발자이자 창업가 이승호입니다.
+현장의 반복 업무와 불편함을 소프트웨어로 해결합니다.<br>
+문제를 이해하고, 실제 작업 흐름에 맞는 제품을 설계하고 개발합니다.
 
-저는 단순히 소프트웨어를 개발하는 것보다 사람들이 반복적으로 겪는 불편함과 비효율을 발견하고, 이를 기술로 해결하는 데 더 큰 관심을 가지고 있습니다.
+[회사 홈페이지](https://godream.co.kr) · [이메일 문의](mailto:sean@godream.co.kr) · [Mathisto 읽기](https://ssnkoster.github.io/mathisto/)
 
-전자상거래 플랫폼, 업무 자동화 시스템, SaaS 서비스, 데이터 기반 애플리케이션을 직접 개발하고 운영해 왔으며, 최근에는 AI를 활용해 일상과 업무의 마찰(Friction)을 줄이는 제품을 만드는 데 집중하고 있습니다.
+## 하는 일
 
----
+- **SW·AI 솔루션 개발** — 현장의 요구를 웹·앱·데스크톱 소프트웨어로 구현합니다.
+- **업무 자동화와 시스템 연동** — 문서 생성, 데이터 처리, 발송과 기록 관리의 반복을 줄입니다.
+- **AI를 활용한 제품 개발** — LLM·검색·RAG를 실제 서비스의 문제와 작업 흐름에 맞게 적용합니다.
 
-# Mission | 미션
+전자상거래 플랫폼, 업무 자동화, SaaS와 데이터 기반 애플리케이션을 개발해 왔습니다. PHP·MySQL 기반 시스템부터 웹·모바일 앱과 AI 서비스까지, 기술 선택보다 해결할 문제와 운영 환경을 먼저 살핍니다.
 
-## Don't Ask. Understand First.
+## 주요 프로젝트
 
-### 묻기 전에 먼저 이해하라.
+### ScanPass · 포장 영상 증빙 솔루션
 
-사용자가 반복적으로
+운송장 스캔을 포장 영상·상품 기록·대표 인증샷과 연결하는 솔루션입니다.
 
-- 입력하고
-- 검색하고
-- 기억하고
-- 관리하도록
+- 바코드로 포장 촬영을 시작·종료하고 상품 스캔 기록을 남깁니다.
+- 인증샷 후보 중 작업자가 대표 사진을 확인하고 선택합니다.
+- 로컬·NAS 보관, 운송장별 검색과 재포장 기록을 지원합니다.
+- 작업대별 라이선스와 기기 인증을 관리합니다.
 
-강요해서는 안 된다고 생각합니다.
+`Python` `Tkinter` `FFmpeg` `SQLite`
 
-좋은 소프트웨어는 사용자가 해야 할 일을 늘리는 것이 아니라 줄여야 합니다.
+### BizFlow · LG U+ 웹팩스 연동 대량 발송 시스템
 
-시스템이 먼저 맥락(Context)을 이해하고,
+엑셀 수신처 데이터에서 문서를 만들고 검토·확정·발송하는 업무 흐름을 연결합니다.
 
-사용자는 단순히 확인(Confirm)만 하면 되는 경험을 지향합니다.
+- 수신처별 문서 생성과 PDF 변환
+- 발송 전 미리보기·수정·확정
+- 즉시·예약 발송, 발송 이력 확인과 재발송
 
-> Software should understand context first and allow users to simply confirm decisions.
+현재 별도 홈페이지는 닫아둔 상태이며, 서비스 업그레이드 후 연결할 예정입니다.
 
----
+`Nuxt / Vue` `FastAPI` `PostgreSQL` `Java / Spring Boot`
 
-# What I'm Building | 현재 만들고 있는 것
+### ECO:ON · 탄소중립 프로그램 참여 플랫폼
 
-## NEX24 Mart
+충주시 탄소중립 그린도시 사회전환 프로그램을 위한 애플리케이션 개발 프로젝트입니다.
 
-### AI-powered Local Logistics Network
+- 시민 앱의 프로그램 신청·출석·활동 기록
+- 관리자 화면의 신청 검토·참여 관리·통계
+- 참여점수·교환 포인트와 상품 신청 관리
 
-동네마트와 지역 배송 네트워크를 연결하는 AI 기반 생활물류 플랫폼
+[환경센터 앱 홈페이지 →](https://www.chungjuupcycle.com)
 
-### 문제
+`Flutter` `Next.js` `NestJS` `PostgreSQL`
 
-- 장을 볼 시간이 부족한 사람들
-- 온라인 주문이 어려운 사용자
-- 디지털 전환이 어려운 동네마트
-- 지역 상권의 온라인 경쟁력 부족
+### Mathisto · 수학과 물리학을 만나는 인터랙티브 매거진
 
-### 비전
+자연 속 수학·물리 원리를 공학 응용과 연결해 설명합니다. 글과 함께 슬라이더를 움직이며 실험할 수 있는 인터랙티브 데모를 만듭니다.
 
-동네마트를 지역 생활물류 허브(Local Logistics Hub)로 전환합니다.
+[매거진 읽기 →](https://ssnkoster.github.io/mathisto/) · [공개 저장소 →](https://github.com/ssnkoster/mathisto)
 
-### 키워드
+## 개발 원칙
 
-- Local Commerce
-- Last-mile Logistics
-- AI Automation
-- Community Economy
+**Don't Ask. Understand First. — 묻기 전에 먼저 이해하기.**
 
----
+좋은 소프트웨어는 사용자가 입력하고, 검색하고, 기억하고, 관리해야 하는 일을 줄여야 한다고 생각합니다. 맥락을 이해하고, 필요한 순간에 확인할 수 있는 경험을 지향합니다.
 
-## BizFlow
+고드름소프트의 네 가지 관점도 이 과정에 담습니다.
 
-### AI-assisted Business Operations
+**ICE** 단단한 코어 · **INVERSION** 관점의 전환 · **INSIGHT** 새로운 발견 · **INNOVATION** 연결과 융합
 
-기업의 반복 업무를 줄이는 업무 자동화 플랫폼
+## 기술과 관심 분야
 
-### 문제
+| 분야 | 사용하는 기술 · 다루는 주제 |
+| --- | --- |
+| Web & App | React, Next.js, Vue, Nuxt, Flutter, TypeScript |
+| Backend & Desktop | Python, FastAPI, NestJS, Node.js, PHP, Tkinter |
+| Data | PostgreSQL, MySQL, SQLite, Redis |
+| AI | LLM applications, AI agents, embeddings, vector search, RAG |
+| Infrastructure | Cloudflare, Google Cloud, Docker |
 
-- 반복 업무
-- 수작업 프로세스
-- 데이터 분산
-- 의사결정 비효율
-
-### 비전
-
-AI와 자동화를 통해 기업 운영의 마찰(Friction)을 줄입니다.
-
-### 키워드
-
-- Workflow Automation
-- SaaS
-- AI Agent
-- Business Operations
+업무 자동화와 현장 소프트웨어를 중심으로, 지역 커머스·생활물류와 개인 지식·기억 시스템에도 관심을 두고 있습니다.
 
 ---
 
-## KeepSpot
-
-### AI Memory Map
-
-장소가 아닌 기억과 경험을 저장하는 AI 기반 기억 지도
-
-### 문제
-
-- 장소를 기억해야 함
-- 나중에 다시 찾기 어려움
-- 감정과 경험이 기록되지 않음
-
-### 비전
-
-단순한 위치가 아닌 기억과 경험을 저장합니다.
-
-### 키워드
-
-- Personal Knowledge
-- Memory System
-- Location Intelligence
-- AI Search
-
----
-
-# Product Philosophy | 제품 철학
-
-제가 만드는 제품들은 서로 다른 서비스처럼 보이지만 동일한 질문에서 시작됩니다.
-
-### KeepSpot
-
-> 왜 사람이 장소를 기억해야 할까?
-
-### BizFlow
-
-> 왜 사람이 업무 흐름을 직접 관리해야 할까?
-
-### NEX24 Mart
-
-> 왜 동네 장보기가 복잡해야 할까?
-
-### Vehicle & Life Services
-
-> 왜 사람이 기록하고 계산하고 비교해야 할까?
-
----
-
-결국 제가 해결하려는 문제는 하나입니다.
-
-> 사람의 시간을 아껴주는 것
-
-그리고
-
-> 사람의 귀찮음을 줄여주는 것
-
-입니다.
-
----
-
-# Areas of Interest | 관심 분야
-
-## AI
-
-- AI Agents
-- Generative AI
-- LLM Applications
-- Embedding & Vector Search
-
-## Business
-
-- SaaS
-- Workflow Automation
-- Product Strategy
-- Startup
-
-## Commerce
-
-- Local Commerce
-- Hyperlocal Platform
-- Marketplace
-- Community Economy
-
-## Logistics
-
-- Last-mile Logistics
-- Local Logistics Network
-- Smart Dispatching
-
-## Personal Systems
-
-- Knowledge Management
-- Memory Systems
-- Location Intelligence
-
----
-
-# Tech Stack | 기술 스택
-
-## Backend
-
-- Python
-- FastAPI
-- PHP
-- Node.js
-
-## Database
-
-- PostgreSQL
-- MySQL
-- Redis
-
-## Frontend
-
-- Flutter
-- Vue.js
-- React
-
-## AI
-
-- OpenAI
-- Claude
-- BGE-M3
-- Embeddings
-- Vector Search
-- RAG
-- Qdrant
-
-## Cloud
-
-- Google Cloud Platform
-- Cloudflare
-- Docker
-
----
-
-# Background | 경험
-
-Over the years, I have built and operated:
-
-- E-commerce platforms
-- Workflow automation systems
-- SaaS products
-- Data-driven applications
-- AI-powered services
-
-전자상거래 플랫폼부터 업무 자동화 시스템, SaaS 서비스, AI 기반 서비스까지 직접 개발하고 운영해 왔습니다.
-
-My experience spans from legacy PHP/MySQL systems to modern AI-powered platforms.
-
-레거시 PHP/MySQL 시스템부터 최신 AI 플랫폼까지 폭넓은 경험을 가지고 있습니다.
-
----
-
-# Current Focus | 현재 집중 분야
-
-- AI 기반 생활물류 네트워크
-- AI Agent 및 업무 자동화
-- 지역 상권 디지털 전환
-- Location Intelligence
-- Product Strategy
-- SaaS Business
-
----
-
-# Currently Exploring | 탐구 중인 주제
-
-- AI Native Products
-- Touchless Interfaces
-- Hyperlocal Commerce
-- Community-driven Logistics
-- Human-Centered AI
-- Frictionless User Experience
-
----
-
-# Long-term Vision | 장기 비전
-
-기술은 더 복잡해지고 있지만,
-
-사용자의 경험은 더 단순해져야 한다고 믿습니다.
-
-저는 AI와 자동화를 활용하여
-
-사람들이 반복적으로 수행하는 작업을 줄이고,
-
-더 중요한 일에 집중할 수 있도록 돕는 제품을 만들고자 합니다.
-
----
-
-# Motto
-
-> Solve real problems.
->
-> Build practical products.
->
-> Make life a little easier.
-
-실제 문제를 해결하고,
-
-실용적인 제품을 만들며,
-
-사람들의 삶을 조금 더 편하게 만드는 것을 목표로 합니다.
-
----
-
-## Connect
-
-- GitHub: https://github.com/ssnkoster
-
----
-
-### Founder @ NEX24H
-
-Building practical products powered by AI, automation, and local networks.
+**고드름소프트 · GODREAM SOFT**<br>
+생각을 기술로, 꿈을 현실로.<br>
+[godream.co.kr](https://godream.co.kr) · [sean@godream.co.kr](mailto:sean@godream.co.kr)
