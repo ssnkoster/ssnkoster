@@ -76,7 +76,8 @@ Founder of **GODREAM SOFT** · Software, AI & Automation
 
 | 분야 | 사용하는 기술 · 다루는 주제 |
 | --- | --- |
-| Web & App | React, Next.js, Vue, Nuxt, Flutter, TypeScript |
+| Web | React, Next.js, Vue, Nuxt, TypeScript |
+| Mobile | Flutter, Dart |
 | Backend & Desktop | Python, FastAPI, NestJS, Node.js, PHP, Tkinter |
 | Data | PostgreSQL, MySQL, SQLite, Redis |
 | AI | LLM applications, AI agents, embeddings, vector search, RAG |
